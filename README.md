@@ -82,10 +82,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
-  </a>
+<!-- AWS -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
+</a>
   
   <!-- Google Cloud -->
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
