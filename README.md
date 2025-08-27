@@ -1,11 +1,7 @@
 <h1 align="center">theqyn04</h1>
 <h3 align="center">Fullstack Developer & Web3 Builder & Freelancer</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=theqyn04&theme=onedark&column=7" alt="theqyn04" />
-  </a>
-</p>
+<h3 align="center">I'm a passionate building creative and innovative project from VietNam.</h3>
 
 <p align="center">
   <!-- Thẻ University -->
@@ -29,7 +25,7 @@
   </a>
 </p>
 
-<h3 align="center" style="color: #6c757d;">Ngôn ngữ và công cụ:</h3>
+<h4 align="center" style="color: #6c757d;">I code with</h4>
 
 <p align="center">
   <!-- JavaScript -->
@@ -78,7 +74,7 @@
   </a>
 </p>
 
-<h3 align="center" style="color: #6c757d;">Công cụ và nền tảng:</h3>
+<h4 align="center" style="color: #6c757d;">I'm also familiar with</h4>
 
 <p align="center">
   <!-- Docker -->
