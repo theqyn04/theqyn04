@@ -29,81 +29,81 @@
   </a>
 </p>
 
-<h3 align="center" style="color: #6c757d;">I code with</h3>
+<h3 align="center" style="color: #6c757d;">Ngôn ngữ và công cụ:</h3>
 
 <p align="center">
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- Spring -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- MSSQL -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
 </p>
 
-<h3 align="center" style="color: #6c757d;">I'm also familiar with</h3>
+<h3 align="center" style="color: #6c757d;">Công cụ và nền tảng:</h3>
 
 <p align="center">
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- Google Cloud -->
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
   
   <!-- Cloudflare -->
   <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="cloudflare" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
   </a>
 </p>
 
