@@ -7,7 +7,7 @@
   </a>
 </p>
 
-  <p align="center">
+<p align="center">
   <!-- Thẻ University -->
   <a href="https://github.com/theqyn04">
     <img src="https://img.shields.io/badge/University-FPTU-blue?style=flat&logo=graduation-cap" alt="University" />
@@ -29,89 +29,65 @@
   </a>
 </p>
 
-<h3 align="left" style="color: #6c757d; margin-bottom: 20px;">Ngôn ngữ và công cụ:</h3>
-<div align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px;">
-  <table align="center">
-    <tr>
-      <!-- JavaScript -->
-      <td align="center" style="padding: 5px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
-        </a>
-      </td>
-      
-      <!-- Node.js -->
-      <td align="center" style="padding: 5px;">
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
-        </a>
-      </td>
-      
-      <!-- React -->
-      <td align="center" style="padding: 5px;">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
-        </a>
-      </td>
-      
-      <!-- Spring -->
-      <td align="center" style="padding: 5px;">
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
-        </a>
-      </td>
-      
-      <!-- .NET -->
-      <td align="center" style="padding: 5px;">
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <!-- MSSQL -->
-      <td align="center" style="padding: 5px;">
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
-        </a>
-      </td>
-      
-      <!-- MySQL -->
-      <td align="center" style="padding: 5px;">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
-        </a>
-      </td>
-      
-      <!-- MongoDB -->
-      <td align="center" style="padding: 5px;">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
-        </a>
-      </td>
-      
-      <!-- Python -->
-      <td align="center" style="padding: 5px;">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<h3 align="center" style="color: #6c757d;">Ngôn ngữ và công cụ:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact&theme=onedark" alt="your-username" /></p>
+<p align="center">
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  </a>
+  
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  </a>
+  
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  </a>
+  
+  <!-- Spring -->
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
+  </a>
+  
+  <!-- .NET -->
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
+  </a>
+  
+  <!-- MSSQL -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql" />
+  </a>
+  
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  </a>
+  
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  </a>
+  
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en&theme=onedark" alt="your-username" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theqyn04&show_icons=true&locale=en&layout=compact&theme=onedark" alt="theqyn04" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=onedark" alt="your-username" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theqyn04&show_icons=true&locale=en&theme=onedark" alt="theqyn04" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theqyn04&theme=onedark" alt="theqyn04" />
+</p>
 
 <div align="center">
-
-```ascii
-  _____                 _   _                 
- | ____|_ __ ___  _ __ | |_(_)_ __   __ _ ___ 
- |  _| | '_ ` _ \| '_ \| __| | '_ \ / _` / __|
- | |___| | | | | | |_) | |_| | | | | (_| \__ \
- |_____|_| |_| |_| .__/ \__|_|_| |_|\__, |___/
-                 |_|                |___/     
