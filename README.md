@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h3 align="center" style="color: #6c757d;">Ngôn ngữ và công cụ:</h3>
+<h3 align="center" style="color: #6c757d;">I code with</h3>
 
 <p align="center">
   <!-- JavaScript -->
@@ -75,6 +75,35 @@
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  </a>
+</p>
+
+<h3 align="center" style="color: #6c757d;">I'm also familiar with</h3>
+
+<p align="center">
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  </a>
+  
+  <!-- AWS -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+  </a>
+  
+  <!-- Google Cloud -->
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud" />
+  </a>
+  
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  </a>
+  
+  <!-- Cloudflare -->
+  <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="cloudflare" />
   </a>
 </p>
 
