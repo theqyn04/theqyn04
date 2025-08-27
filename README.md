@@ -1,32 +1,37 @@
-<h1 align="center"></h1>
+<h1 align="center">theqyn04</h1>
 <h3 align="center">Fullstack Developer & Web3 Builder & Freelancer</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zennomi&theme=onedark&column=7" alt="zennomi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=theqyn04&theme=onedark&column=7" alt="theqyn04" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> 
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/twitter/follow/your-profile?logo=twitter&style=for-the-badge" alt="your-profile" /></a>
+  <img src="https://komarev.com/ghpvc/?username=theqyn04&label=Profile%20views&color=0e75b6&style=flat" alt="theqyn04" /> 
+  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/twitter/follow/your-profile?logo=twitter&style=for-the-badge" alt="theqyn04" /></a>
+  
+  <!-- Thẻ University -->
+  <a href="https://github.com/theqyn04">
+    <img src="https://img.shields.io/badge/University-FPTU-blue?style=flat&logo=graduation-cap" alt="University" />
+  </a>
+  
+  <!-- Thẻ Hobby -->
+  <a href="https://github.com/theqyn04">
+    <img src="https://img.shields.io/badge/Hobby-Japanese_Culture-green?style=flat&logo=gamepad" alt="Hobby" />
+  </a>
+  
+  <!-- Thẻ Follow -->
+  <a href="https://github.com/theqyn04?tab=followers">
+    <img src="https://img.shields.io/github/followers/theqyn04?color=yellow&label=Follow&logo=github&style=flat" alt="GitHub followers" />
+  </a>
+  
+  <!-- Thẻ Star -->
+  <a href="https://github.com/theqyn04?tab=repositories">
+    <img src="https://img.shields.io/github/stars/theqyn04?color=orange&label=Stars&logo=github&style=flat" alt="GitHub stars" />
+  </a>
 </p>
 
-- 🔭 Hiện tôi đang làm việc trên [Dự án nổi bật](https://github.com/your-username/your-project)
-
-- 🌱 Tôi đang học **React, Node.js, Python**
-
-- 👯 Tôi muốn hợp tác về **các dự án mã nguồn mở**
-
-- 🤝 Tôi đang tìm kiếm sự giúp đỡ với **các dự án AI**
-
-- 👨‍💻 Tất cả dự án của tôi đều có tại [https://github.com/your-username](https://github.com/your-username)
-
-- 💬 Hỏi tôi về **JavaScript, React, Node.js**
-
-- 📫 Liên hệ với tôi **email@example.com**
-
-- ⚡ Sở thích **chơi game, đọc sách, du lịch**
 
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
