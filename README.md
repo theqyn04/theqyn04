@@ -1,7 +1,7 @@
 <h1 align="center">theqyn04</h1>
-<h3 align="center">Fullstack Developer & Web3 Builder & Freelancer</h3>
+<h4 align="center">Fullstack Developer & Web3 Builder & Freelancer</h4>
 
-<h3 align="center" style="font-weight: normal;">I'm a passionate building creative and innovative project from VietNam.</h3>
+<h4 align="center" style="font-weight: normal;">I'm a passionate building creative and innovative project from VietNam.</h4>
 
 <p align="center">
   <!-- Thẻ University -->
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h4 align="center" style="color: #6c757d; font-weight: normal;">I code with</h4>
+<h5 align="center" style="color: #6c757d; font-weight: normal;">I code with</h5h5>
 
 <p align="center">
   <!-- JavaScript -->
@@ -74,7 +74,7 @@
   </a>
 </p>
 
-<h4 align="center" style="color: #6c757d; font-weight: normal;">I'm also familiar with</h4>
+<h5 align="center" style="color: #6c757d; font-weight: normal;">I'm also familiar with</h5>
 
 <p align="center">
   <!-- Docker -->
