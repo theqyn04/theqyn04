@@ -7,7 +7,7 @@
   </a>
 </p>
 
-  
+  <p align="center">
   <!-- Thẻ University -->
   <a href="https://github.com/theqyn04">
     <img src="https://img.shields.io/badge/University-FPTU-blue?style=flat&logo=graduation-cap" alt="University" />
@@ -29,53 +29,76 @@
   </a>
 </p>
 
-<h3 align="center">Ngôn ngữ và công cụ:</h3>
-<p align="center">
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  
-  <!-- Spring -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a>
-  
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a>
-  
-  <!-- MSSQL -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a>
-  
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-</p>
+<h3 align="left" style="color: #6c757d; margin-bottom: 20px;">Ngôn ngữ và công cụ:</h3>
+<div align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px;">
+  <table align="center">
+    <tr>
+      <!-- JavaScript -->
+      <td align="center" style="padding: 5px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
+        </a>
+      </td>
+      
+      <!-- Node.js -->
+      <td align="center" style="padding: 5px;">
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
+        </a>
+      </td>
+      
+      <!-- React -->
+      <td align="center" style="padding: 5px;">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
+        </a>
+      </td>
+      
+      <!-- Spring -->
+      <td align="center" style="padding: 5px;">
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
+        </a>
+      </td>
+      
+      <!-- .NET -->
+      <td align="center" style="padding: 5px;">
+        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- MSSQL -->
+      <td align="center" style="padding: 5px;">
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
+        </a>
+      </td>
+      
+      <!-- MySQL -->
+      <td align="center" style="padding: 5px;">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
+        </a>
+      </td>
+      
+      <!-- MongoDB -->
+      <td align="center" style="padding: 5px;">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
+        </a>
+      </td>
+      
+      <!-- Python -->
+      <td align="center" style="padding: 5px;">
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="background-color: #e9ecef; padding: 5px; border-radius: 8px;"/> 
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact&theme=onedark" alt="your-username" /></p>
 
