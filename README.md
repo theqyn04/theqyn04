@@ -34,47 +34,47 @@
 <p align="center">
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- Spring -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- MSSQL -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
 </p>
 
@@ -83,27 +83,27 @@
 <p align="center">
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- Google Cloud -->
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
   
   <!-- Cloudflare -->
   <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="50" height="50" style="margin: 5px; background-color: #f5f5f5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="50" height="50" style="margin: 8px; background-color: #2d374850; padding: 10px; border-radius: 15px;" />
   </a>
 </p>
 
