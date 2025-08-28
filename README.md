@@ -144,4 +144,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theqyn04&theme=onedark" alt="theqyn04" />
 </p>
 
-<div align="center">
