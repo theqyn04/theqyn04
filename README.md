@@ -1,6 +1,5 @@
 <h1 align="center">theqyn04</h1>
 <h4 align="center">Fullstack Developer & Web3 Builder & Freelancer</h4>
-
 <h4 align="center" style="font-weight: normal;">I'm a passionate building creative and innovative project from VietNam.</h4>
 
 <p align="center">
@@ -13,42 +12,29 @@
 <h5 align="center" style="color: #6c757d; font-weight: normal;">I code with</h5>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" style="margin: 5px;" /></a>
 </p>
 
 <h5 align="center" style="color: #6c757d; font-weight: normal;">I'm also familiar with</h5>
 
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
-  <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="50" height="50" style="margin: 5px; background-color: #2d374850; padding: 10px; border-radius: 15px;" /></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://cloud.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" style="margin: 5px;" /></a><a href="https://www.cloudflare.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="45" height="45" style="margin: 5px;" /></a>
 </p>
 
-<h5 align="center" style="color: #6c757d; font-weight: normal;">You can find me on</h5>
+<h5 align="center" style="color: #6c757d; font-weight: normal;">Connect with me</h5>
 
 <p align="center">
-  <a href="https://www.facebook.com/nguyen.the.quyen.366928" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://x.com/Qyn201004" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-  <a href="mailto:quyennguyen99000@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/theqyn20/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/theqyn04" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/nguyen.the.quyen.366928"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://x.com/Qyn201004"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:quyennguyen99000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/theqyn20/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theqyn04&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theqyn04&show_icons=true&locale=en&layout=compact&theme=onedark" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theqyn04&show_icons=true&locale=en&theme=onedark" height="165px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theqyn04&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theqyn04&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theqyn04&theme=onedark" width="100%" />
 </p>
