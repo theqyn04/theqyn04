@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0627b5b3-17e7-4830-8f84-6f06db6dc153" /># Hi, I'm Nguyễn Thế Quyền 🌸, Software Engineer 🔥
+# Hi, I'm Nguyễn Thế Quyền 🌸, Software Engineer 🔥
 
 ![](./assets/header_.png)
 
