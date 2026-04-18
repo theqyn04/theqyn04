@@ -2,7 +2,7 @@
 
 ![](./assets/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=console.log(%22I'm+Nguyen+The+Quyen%22);console.log(%22I+code+Javascript%22);console.log(%22and+code+C#%22);console.log(%22and+TypeScript%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=console.log(%22I'm+Nguyen+The+Quyen%22);console.log(%22I+code+Javascript%22);console.log(%22and+code+Java%22);console.log(%22and+TypeScript%22))](https://git.io/typing-svg)
 
 I hold a software engineering degree from FPT University. I work as a Web Developer at a software company and also have a favorite with foregin languages.
 
