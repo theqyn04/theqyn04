@@ -1,54 +1,67 @@
-<h1 align="center">theqyn04</h1>
-<h4 align="center">Fullstack Developer & Web3 Builder & Freelancer</h4>
-<p align="center">I'm a passionate building creative and innovative project from VietNam.</p>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0627b5b3-17e7-4830-8f84-6f06db6dc153" /># Hi, I'm Nguyễn Thế Quyền 🌸, Software Engineer 🔥
 
-<p align="center">
-  <a href="https://github.com/theqyn04"><img src="https://img.shields.io/badge/University-FPTU-blue?style=flat&logo=graduation-cap" /></a>
-  <a href="https://github.com/theqyn04"><img src="https://img.shields.io/badge/Hobby-Japanese_Culture-green?style=flat&logo=gamepad" /></a>
-  <a href="https://github.com/theqyn04?tab=followers"><img src="https://img.shields.io/github/followers/theqyn04?color=yellow&label=Follow&logo=github&style=flat" /></a>
-  <a href="https://github.com/theqyn04?tab=repositories"><img src="https://img.shields.io/github/stars/theqyn04?color=orange&label=Stars&logo=github&style=flat" /></a>
-</p>
+![](./assets/header_.png)
 
-<h5 align="center">I code with</h5>
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></td>
-  </tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=console.log(%22I'm+Nguyen+The+Quyen%22);console.log(%22I+code+Javascript%22);console.log(%22and+code+C#%22);console.log(%22and+TypeScript%22))](https://git.io/typing-svg)
 
-<h5 align="center">I'm also familiar with</h5>
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" /></td>
-  </tr>
-</table>
+I hold a software engineering degree from FPT University. I work as a Web Developer at a software company and also have a favorite with foregin languages.
 
-<h5 align="center">Connect with me</h5>
-<p align="center">
-  <a href="https://www.facebook.com/nguyen.the.quyen.366928"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://x.com/Qyn201004"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:quyennguyen99000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/theqyn20/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<img align="right" src="https://res.cloudinary.com/ecommerce2021/image/upload/v1663398918/profile-forme/avatar_ws0jhh.png" width="150" height="150">
 
-<br />
+- 🎓 Graduated from FPT University with an undergraduate degree.
+- 🔥 I am a software engineer and a programming instructor. I work as a programmer for companies' websites.
+- 💌 Contact me at [quyennguyen99000@gmail.com](mailto:quyennguyen99000@gmail.com).
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theqyn04&show_icons=true&locale=en&layout=compact&theme=onedark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=theqyn04&show_icons=true&locale=en&theme=onedark" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theqyn04&theme=onedark" width="80%" />
-</p>
+## 📑 Github Stats
+
+<a href="https://github.com/thqyn04">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fdhhhdjd&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%">
+</a>
+
+# 🚀 Programming Languages Showcase 🌟
+
+![Languages](https://skillicons.dev/icons?i=js,ts,c#)
+
+## 🌐 Frontend
+
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,redux,tailwind,scss,bootstrap,styledcomponents,html,css)
+
+## 💻 Backend
+
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,nestjs,express,next,graphql)
+
+[![Knex](https://img.shields.io/badge/-Knex-DB4D6D?style=flat&logo=knex&logoColor=white)](https://knexjs.org/)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
+[![Hasura](https://img.shields.io/badge/-Hasura-FF6924?style=flat-square&logo=hasura&logoColor=white)](https://profile-forme.com)
+
+## 🏛️ Database
+
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)
+
+## ⚙️ DevOps
+
+![Others](https://skillicons.dev/icons?i=docker,vercel,nginx,heroku)
+
+
+## 🤖 Source code management
+
+![Others](https://skillicons.dev/icons?i=github,gitlab)
+
+## 🧰 OS & IDE & Tools
+
+![Others](https://skillicons.dev/icons?i=figma,postman,vite,bash,git,markdown,linux,vscode)
+
+## ☁️ Cloud
+
+![Others](https://skillicons.dev/icons?i=aws,googlecloud,cloudflare)
+
+[![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)](https://profile-forme.com)
+[![Cloudinary](https://img.shields.io/badge/-Cloudinary-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://profile-forme.com)
+
+<!-- run image -->
+<div align="center">
+  <img src="./assets/man_run.png" width="250" height="250" />
+  <img width="200%" src="./assets/hr.gif" />
+</div>
+
+
