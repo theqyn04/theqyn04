@@ -58,10 +58,6 @@ I hold a software engineering degree from FPT University. I work as a Web Develo
 [![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)](https://profile-forme.com)
 [![Cloudinary](https://img.shields.io/badge/-Cloudinary-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://profile-forme.com)
 
-<!-- run image -->
-<div align="center">
-  <img src="./assets/man_run.png" width="250" height="250" />
-  <img width="200%" src="./assets/hr.gif" />
-</div>
+
 
 
